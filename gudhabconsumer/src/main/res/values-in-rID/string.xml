@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GudHabConsumer</string>
+    <string name="gudhab">GudHab</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="repositories">Repositori</string>
+    <string name="change_language_settings">Konfigurasi Tukar Bahasa</string>
+    <string name="halaman_favorite">Halaman Favorite</string>
+    <string name="set_alarm_on">Set Alarm: On</string>
+    <string name="set_alarm_off">Set Alarm: Off</string>
+</resources>

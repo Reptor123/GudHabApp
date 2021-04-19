@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GudHabConsumer</string>
+    <string name="gudhab">GudHab</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="repositories">Repositories</string>
+    <string name="change_language_settings">Change Language Setting</string>
+    <string name="favorite" translatable="false">favorite</string>
+    <string name="halaman_favorite">Favorite Pages</string>
+    <string name="set_alarm_on">Set Alarm: On</string>
+    <string name="set_alarm_off">Set Alarm: Off</string>
+</resources>
